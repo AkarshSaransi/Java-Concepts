@@ -19,6 +19,12 @@ public class Main {
         // Method from Car (concrete, not abstract)
         mySedan.displayInfo();
 
-        //Car myCar = new Car(); // This line will cause a compilation error
+        Car myCar = new Car()
+         {
+            void honk() {
+                System.out.println("Anonymous Car honking: Honk Honk!");
+            }
+        };
+        myCar.honk();
     }
 }
