@@ -1,4 +1,4 @@
-package com.coding;
+package com.coding.abstraction;
 
 // Base class representing a generic vehicle
 class Vehicle {

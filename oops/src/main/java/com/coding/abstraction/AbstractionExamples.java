@@ -1,4 +1,4 @@
-package com.coding;
+package com.coding.abstraction;
 
 // 1. Abstract class: can have methods with code, abstract methods, fields, and constructor
 abstract class Animal {

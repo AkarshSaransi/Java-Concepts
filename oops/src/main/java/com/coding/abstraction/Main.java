@@ -1,4 +1,4 @@
-package com.coding;
+package com.coding.abstraction;
 
 public class Main {
     public static void main(String[] args) {
